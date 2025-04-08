@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/mathpimentel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathpimentel&show_icons=false&hide=contribs,prs&cache_seconds=86400&theme=aura_dark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpimentel&layout=compact&langs_count=16&theme=aura_dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathpimentel&show_icons=false&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpimentel&layout=compact&langs_count=16&theme=vision-friendly-dark">
 </div>
 
 <div style="display: inline_block"><br>
