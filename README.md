@@ -2,8 +2,11 @@
 
 <div>
   <a href="https://github.com/mathpimentel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathpimentel&show_icons=false&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpimentel&layout=compact&langs_count=16&theme=vision-friendly-dark">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathpimentel&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathpimentel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=apprentice&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 <div style="display: inline_block"><br>
