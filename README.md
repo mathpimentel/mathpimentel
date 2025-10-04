@@ -1,4 +1,4 @@
-## Hello, world! 👋
+## Hello, world! I'm Matheus Pimentel👋
 
 <div>
   <a href="https://github.com/mathpimentel">
@@ -18,7 +18,17 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
 </div>
-    
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathpimentel/mathpimentel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathpimentel/mathpimentel/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mathpimentel/mathpimentel/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!--
 **mathpimentel/mathpimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
