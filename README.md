@@ -19,12 +19,6 @@ Atualmente estou concentrando meus estudos em **Python com Flask**, **TypeScript
 - [App-comprar](https://github.com/mathpimentel/App-comprar)  
   Aplicativo simples em React Native + Expo para gerenciamento de listas de compras.
 
-- [pokemon-react](https://github.com/mathpimentel/pokemon-react)  
-  Pokédex em React com Axios, consumo de API e manipulação de estado.
-
-- [paradigmas-go](https://github.com/mathpimentel/paradigmas-go)  
-  Projeto em Go criado para estudo e apresentação de paradigmas da linguagem.
-
 ## Tecnologias
 
 <div style="display: inline_block">
@@ -33,15 +27,7 @@ Atualmente estou concentrando meus estudos em **Python com Flask**, **TypeScript
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</div>
-
-## GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mathpimentel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=true&custom_title=GitHub%20Stats" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathpimentel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=true" height="170" alt="Top languages" />
 </div>
 
 ## Contato
